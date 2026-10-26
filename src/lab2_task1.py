@@ -41,7 +41,7 @@ setup(
         'console_scripts': [
             'fahad_l2t1 = lab2.lab2_task1:main',
         ],
-    },
+    },a
 )
 
 
