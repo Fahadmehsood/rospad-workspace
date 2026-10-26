@@ -26,6 +26,6 @@ def main(args=None):
 
 if __name__ == '__main__':
     main()
-
+ros2 run lab2 fahad_l2t1
 
 
